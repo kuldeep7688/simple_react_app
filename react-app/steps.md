@@ -1,9 +1,13 @@
 # Creating React Project using Vite
 
+- [Tutorial Link](https://www.youtube.com/watch?v=SqcY0GlETPk&t=503s)
+
 1. npm create vite@latest
 2. Provide the project name
 3. Select language : TypeScript
-4. Got into the project directory and install dependencies
+4. Got into the project directory and install dependencies **npm -i**
+5. To run server **np run dev**
+6.
 
 # Creating Django project
 
@@ -29,3 +33,5 @@
 
 - Use django to return data not html
 -
+
+## Creating Dummy Data for the App [MockAroo](https://www.mockaroo.com/)
